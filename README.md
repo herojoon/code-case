@@ -8,8 +8,6 @@ Mybatis에서 resultType Map을 Camel로 변환하기
 
 ### Guides
 
-The following guides illustrate how to use some features concretely:
-
 * 본 프로젝트 테스트를 위해서 application.yaml의 DB username과 password 정보를 개인 DB설정에 맞춰 셋팅해야 합니다.
 
 ### 참고 링크
